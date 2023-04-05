@@ -1,0 +1,35 @@
+﻿body
+{
+    background-color:#dbdbdb;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.birinciBtn{
+    background-color:yellow;
+    color:darkblue;
+    height:90px;
+    width:200px;
+    font-size:20px;
+    font-weight:bold;
+    text-transform:uppercase;
+}
+
+.ikinciBtn {
+    background-color: red;
+    color: yellow;
+    height: 90px;
+    width: 200px;
+    font-size: 20px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.tiklandiBtn {
+    background-color: pink;
+    color: purple;
+    height: 90px;
+    width: 200px;
+    font-size: 20px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
